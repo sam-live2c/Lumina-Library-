@@ -1,0 +1,8 @@
+{
+  "name": "Lumina Reader",
+  "description": "A soft premium book reader featuring realistic physical page flipping animations, distraction-free reading, custom paper themes, and PDF import.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
